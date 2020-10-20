@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListBook</string>
+    <string name="heroes_name">Nama Pah</string>
+    <string name="detail">Detail</string>
+    <string name="list">Mode List</string>
+    <string name="with_cardview">Mode Card</string>
+    <string name="about">About</string>
+    <string name="nama">Moh. Farul Hafidh</string>
+    <string name="email">takun917@gmail.com</string>
+    <string name="mesin">Jenis Mesin</string>
+    <string name="speed">Kecepatan Maksimal</string>
+    <string name="lebar">Lebar Sayap</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="panjang">Panjang</string>
+    <string name="penulis">Penulis</string>
+    <string name="terbit_pada">Terbit Pada</string>
+    <string name="jumlah_halaman">Jumlah Halaman</string>
+    <string name="genre">Genre</string>
+</resources>
