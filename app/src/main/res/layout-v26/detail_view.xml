@@ -141,19 +141,18 @@
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginBottom="8dp"/>
-
         <TextView
+            tools:text="detail buku"
             android:id="@+id/tv_item_detail"
+            android:textSize="16sp"
+            android:justificationMode="inter_word"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
-            android:justificationMode="inter_word"
             android:lineSpacingMultiplier="1"
-            android:textColor="@android:color/black"
-            android:textSize="16sp"
-            tools:text="detail buku" />
+            android:textColor="@android:color/black"/>
 
     </LinearLayout>
 </ScrollView>
